@@ -1,1 +1,5 @@
 /.idea/
+/build/
+/logs/
+/.gradle/
+/.gradle/8.7/
